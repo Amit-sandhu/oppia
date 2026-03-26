@@ -972,6 +972,9 @@ textarea {
 .nav-link.dropdown-item {
   padding: 3px 20px 2px 20px;
 }
+.nav-item .dropdown-item.e2e-test-profile-link {
+  white-space: normal;
+}
 .navbar-nav.oppia-navbar-nav .nav-link {
   color: #fff;
   font-size: 16px;
